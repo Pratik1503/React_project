@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## View my work
+https://grand-lollipop-efbc34.netlify.app
+
 ### `npm start`
 
 Runs the app in the development mode.\
